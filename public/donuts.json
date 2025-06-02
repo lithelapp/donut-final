@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Pink heart", "price": 1.99, "imageName": "donut-1" },
+  { "id": 2, "name": "The tiger", "price": 1.79, "imageName": "donut-2" },
+  { "id": 3, "name": "Iced delight", "price": 1.89, "imageName": "donut-3" }
+]
